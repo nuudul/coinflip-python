@@ -2,7 +2,7 @@ import random
 
 
 userin = None
-userin == int(input("1 for tails, 2 for heads: "))
+userin = int(input("1 for tails, 2 for heads: "))
 useropt = None
 if userin == 1:
     useropt == True # for tails
