@@ -1,5 +1,5 @@
 # coinflip-python
-A (really shitty) coinflip script written in python
+A (really shitty) coin-flip script written in python
 
 ## How it works
 The user enters either 1 (for ```True```) or 2 (for ```False```)
