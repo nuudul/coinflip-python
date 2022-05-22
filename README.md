@@ -13,6 +13,6 @@ then the user input (```useropt```) and ```coin``` gets compared
 
 if they are the same, it prints "Correct", if not, it prints "Wrong"
 
-also I could not use functions since i couldnt use the variables outside the function
+also I could not use functions (other than ```coinflip```) since i cant use the variables outside the function
 
 this script is fucking awful
